@@ -1,0 +1,1 @@
+This is an example rails app using the twitter-bootstrap-rails gem.
